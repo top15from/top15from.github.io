@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+[10 月] 高级.Net Core 开发工程师
+岗位职责：
 
-You can use the [editor on GitHub](https://github.com/top15from/top15from.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1 、负责电商 OMS,小程序商城设计与研发工作；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2 、参与需求评审，任务分解，工作计划、技术文档与核心编码；
 
-### Markdown
+3 、根据产品需求主导部分技术方案，完成选型及开发落地工作；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4 、参与项目质量管理与控制，提供产品安全、性能及可靠性保障；
 
-```markdown
-Syntax highlighted code block
+任职要求：
 
-# Header 1
-## Header 2
-### Header 3
+1 、计算机相关专业，5 年及以上.Net 开发经验，2 年以上.Net Core 开发经验；
 
-- Bulleted
-- List
+2 、基本功扎实，对 IOC 、AOP 等有深刻认识，熟悉常用设计模式；
 
-1. Numbered
-2. List
+3 、熟悉 .Net Core 、EF Core 、ASP.NET Core 、Redis 、Kafka ；
 
-**Bold** and _Italic_ and `Code` text
+4 、熟悉数据库设计 /数据库性能调优，熟练运用 ElasticSearch 、MongoDb 等；
 
-[Link](url) and ![Image](src)
-```
+5 、熟悉微服务架构设计思想，熟悉.Net Core 微服务与容器技术应用；
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
+工作地点： 武汉江夏区光谷金融港 B2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/top15from/top15from.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+薪资范围：15K-22K
 
-### Support or Contact
+奖金绩效: rsu 股票
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+联系方式：微信：top15from QQ：1876061413
+
+公司介绍：fulu.com
